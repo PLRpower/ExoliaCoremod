@@ -1,0 +1,16 @@
+[
+{
+  "modid": "exoliamenu",
+  "name": "Exolia Menu",
+  "description": "Exolia Menu Extension",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["En0ri4n"],
+  "credits": "Forge, FML and MFF Guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
